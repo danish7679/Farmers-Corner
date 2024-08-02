@@ -1,0 +1,1 @@
+ C:\\Users\\Danis\\Downloads\\agri_connect-main\ (5)\\agri_connect-main\\.dart_tool\\flutter_build\\9ef8ac69b8bd836f028c89b94fc865a1\\native_assets.yaml: 
